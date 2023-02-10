@@ -5,16 +5,16 @@ Dataset was extracted from Kaggle.
 More than some codes were extracted from Kaggle, whilst RFE was added.
 
 Dependencies include:
+1. Sklearn
+2. Seaborn
+3. Pandas
+4. Numpy
+5. Matplotlib
 
-Sklearn
-Seaborn
-Pandas
-Numpy
-Matplotlib
 Models used:
+1. Linear Regression
+2. Logistic Regression
+3. Random Forest, and
+4. Gradient Boosting
 
-Linear Regression
-Logistic Regression
-Random Forest, and
-Gradient Boosting
-Among all of the above mentioned models, logistic regression gave the best result.
+Among all of the above mentioned models, logistic regression gave the best accuracy.
